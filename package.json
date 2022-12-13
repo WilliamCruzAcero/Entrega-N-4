@@ -1,0 +1,17 @@
+{
+    "type": "module",
+    "name": "desafioClase8",
+    "version": "1.0.0",
+    "description": "Una api de productos",
+    "main": "server.js",
+    "scripts": {
+      "test": "echo Error: no test specified  && exit desafioClase8"
+    },
+    "keywords": [],
+    "author": "William Cruz Acero",
+    "license": "ISC",
+    "dependencies": {
+      "express": "^4.17.1"
+
+    }
+  }
